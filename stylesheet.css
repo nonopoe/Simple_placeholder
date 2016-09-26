@@ -29,6 +29,7 @@ body {
 
 #experiences-box {
 	background-color: white;
+	text-align: center;
 }
 
 #studies-box {
@@ -38,4 +39,5 @@ body {
 #footer {
 	background-color: rgb(59,89,152);
 	text-align: center;
+
 }
