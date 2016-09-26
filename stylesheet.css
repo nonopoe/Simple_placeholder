@@ -1,0 +1,40 @@
+body {
+	background-color: rgb(104,187,285);
+}
+
+#header {
+	background-color: rgb(59,89,152);
+}
+
+#container {
+	background-color: rgb(59,89,152);
+}
+
+#left-box {
+	background-color: rgb(9,30,45);
+	color: white;
+}
+
+.imageflottante {
+	float: left;
+}
+
+.dessous {
+	clear: both;
+}
+
+#right-box {
+	background-color: rgb(9,30,45);
+}
+
+#experiences-box {
+	background-color: white;
+}
+
+#studies-box {
+	background-color: white;
+}
+
+#footer {
+	background-color: rgb(59,89,152);
+}
